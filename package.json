@@ -1,0 +1,19 @@
+{
+  "name": "mistress-arushi-official",
+  "version": "1.0.0",
+  "description": "Mistress Arushi — Genuine findom and humiliation specialist",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "mistress-arushi",
+    "findom",
+    "femdom",
+    "luxury-portfolio"
+  ],
+  "author": "Mistress Arushi",
+  "license": "UNLICENSED",
+  "private": true
+}
