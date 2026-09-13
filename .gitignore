@@ -36,3 +36,6 @@ assets/img/*.jpeg
 *.jpg
 *.jpeg
 
+# Preserve the deployment-safe JPG source backup shipped with this checkout.
+!assets/MISTRESS Arushi 👠💸💖_2026_09_13/*.jpg
+
