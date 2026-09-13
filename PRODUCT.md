@@ -41,7 +41,7 @@ Use Mistress Arushi as the client name. The voice is confident, youthful, direct
 
 ## Evidence on Hand
 
-Real photos and videos supplied at `assets/MISTRESS Arushi 👠💸💖_2026_09_13`, including a file explicitly named as the verification video and media referencing Chandigarh real sessions. No verified pricing sheet or payment destination was supplied.
+Real photos and videos supplied in the preserved source backup at `D:\Work\Antigravity\Projects\Websites\MistressArushi-originals-2026-09-13`; deployment-safe optimized derivatives are in `assets/media` as numbered WebP and MP4 files. No verified pricing sheet or payment destination was supplied.
 
 ## Product Principles
 
